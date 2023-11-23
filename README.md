@@ -3,4 +3,4 @@ Oh, hi! This is a builder!
 
 # Well, how to download?
 
-You can download on SourceForge!
+You can download on Github
